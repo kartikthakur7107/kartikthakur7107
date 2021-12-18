@@ -6,8 +6,8 @@ Hey👋, I am soon to be a Programmer and Developer. Currently, I am pursuing Co
 
 Skills: HTML / C++
 
-- 🔭 I’m currently working on this enhancing my skills
+- 🔭 I’m currently working on enhancing my skills
 
 
-
+![I am pursuing B.Tech [CSE]](https://github.com/kartikthakur7107/kartikthakur7107/blob/main/bg1.png)
 
