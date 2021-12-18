@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there 👋, **Kartik Thakur**
+#### I am pursuing B.Tech [CSE]
+![I am pursuing B.Tech [CSE]](https://github.com/kartikthakur7107/kartikthakur7107/blob/main/bike.jpg)
 
-<!--
-**kartikthakur7107/kartikthakur7107** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey👋, I am soon to be a Programmer and Developer. Currently, I am pursuing Computer Science Engineering from Guru Nanak Dev University. I love to learn new technologies and implement them in Day to Day life as, Programmer and Developer. Currently, I am pursuing Computer Science Engineering from Guru Nanak Dev University. I love to learn new technologies and implement them in Day to Day life,
 
-Here are some ideas to get you started:
+Skills: HTML / C++
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on this enhancing my skills
+
+
+
+
