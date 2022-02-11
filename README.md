@@ -1,7 +1,7 @@
 ### Hi there 👋, **Kartik Thakur**
 #### I am pursuing B.Tech [CSE]
 
-Hey👋, I am soon to be a Programmer and Developer. Currently, I am pursuing Computer Science Engineering from Guru Nanak Dev University. I love to learn new technologies and implement them in Day to Day life as, Programmer and Developer. Currently, I am pursuing Computer Science Engineering from Guru Nanak Dev University. I love to learn new technologies and implement them in Day to Day life,
+Hey👋, I am soon to be a Programmer and Developer. Currently, I am pursuing Computer Science Engineering from Guru Nanak Dev University. I love to learn new technologies and implement them in Day to Day life as, Programmer and Developer. Currently, 
 
 Skills: HTML / C++
 
