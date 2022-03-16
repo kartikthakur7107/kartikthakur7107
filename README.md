@@ -3,7 +3,7 @@
 
 Hey👋, I am soon to be a Programmer and Developer. Currently, I am pursuing Computer Science Engineering from Guru Nanak Dev University. I love to learn new technologies and implement them in Day to Day life as, Programmer and Developer. Currently, 
 
-Skills: C++/ CSS3. HTML5
+Skills: C++/ CSS3/ HTML5
 
 - 🔭 I’m currently working on enhancing my skills
 
@@ -14,7 +14,7 @@ Skills: C++/ CSS3. HTML5
 <p align="left">
 <a href="https://twitter.com/kartik__op" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kartik__op" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/kartik7107" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kartik7107" height="30" width="40" /></a>
-<a href="https://instagram.com/kartik_op" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartik_op" height="30" width="40" /></a>
+<a href="https://instagram.com/kartik.gq" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kartik_op" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
