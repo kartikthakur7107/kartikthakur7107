@@ -1,4 +1,4 @@
-### Hi there 👋, **Kartik Thakur**
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Spline+Sans&size=30&color=368CF7&lines=Hey!+It's+Kartik+Thakur;I+am+learning+Web+Dev;CSE+Undergrad;Open-Source+enthusiast;Visit+kartik.gq)](https://git.io/typing-svg)
 #### I am pursuing B.Tech [CSE]
 
 Hey👋, I am soon to be a Programmer and Developer. Currently, I am pursuing Computer Science Engineering from Guru Nanak Dev University. I love to learn new technologies and implement them in Day to Day life as, Programmer and Developer. Currently, 
