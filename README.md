@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=35&lines=Hey!+It's+Kartik+Thakur;Visit+kartik.gq;Learning+Web+Dev;Open-Source+Enthusiast;Computer+Science+Undergraduate)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=30&vCenter=true&width=500&lines=Hey!+It's+Kartik+Thakur;Visit+kartik.gq;Learning+Web+Dev;Open-Source+Enthusiast;Computer+Science+Undergraduate)](https://git.io/typing-svg)
 #### I am pursuing B.Tech [CSE]
 
 Hey👋, I am soon to be a Programmer and Developer. Currently, I am pursuing Computer Science Engineering from Guru Nanak Dev University. I love to learn new technologies and implement them in Day to Day life as, Programmer and Developer. Currently, 
